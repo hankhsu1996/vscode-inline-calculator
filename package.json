@@ -8,6 +8,7 @@
     "url": "https://github.com/hankhsu1996/vscode-inline-calculator"
   },
   "license": "MIT",
+  "publisher": "hankhsu1996",
   "engines": {
     "vscode": "^1.73.0"
   },
