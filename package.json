@@ -3,6 +3,11 @@
   "displayName": "Inline Calculator",
   "description": "A VS Code extension that allows you to evaluate simple math expressions inline.",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hankhsu1996/vscode-inline-calculator"
+  },
+  "license": "MIT",
   "engines": {
     "vscode": "^1.73.0"
   },
