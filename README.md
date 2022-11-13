@@ -1,6 +1,6 @@
 # Inline Calculator
 
-Inline calculator is a VS Code extension that allows you to evaluate simple math expressions in your code.
+Inline calculator is a VS Code extension that allows you to evaluate math expressions in your text editor.
 
 ## Features
 
@@ -8,10 +8,10 @@ Inline calculator is a VS Code extension that allows you to evaluate simple math
 - Supports hex, binary, and octal numbers
 - Support big numbers
 
-## Release Notes
+## About the Icon
 
-Users appreciate release notes as you update your extension.
+<a href="https://www.flaticon.com/free-icons/calculator" title="calculator icons">Calculator icons created by Freepik - Flaticon</a>
 
-### 0.0.1
+## License
 
-Initial release of Inline Calculator
+[MIT](https://choosealicense.com/licenses/mit/)

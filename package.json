@@ -1,7 +1,7 @@
 {
   "name": "inline-calculator",
   "displayName": "Inline Calculator",
-  "description": "A VS Code extension that allows you to evaluate simple math expressions inline.",
+  "description": "Evaluate math expressions in text editor.",
   "version": "0.0.1",
   "repository": {
     "type": "git",
@@ -15,6 +15,7 @@
   "categories": [
     "Other"
   ],
+  "icon": "images/icon.png",
   "activationEvents": [
     "*"
   ],
